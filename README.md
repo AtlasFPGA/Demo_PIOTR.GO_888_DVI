@@ -9,6 +9,7 @@ Se muestra en la placa max1000 con ATLAS, la profundidad de color que puede obte
 
 The original demo used in Linchee Tang:
 EL ejercicio/demo original:
+
 https://github.com/piotr-go/Lichee-Tang/tree/master/VGA
 
 You could change the fpga chip to cyclone 10LP and use pinplaner to change the defaults pins of the design.
